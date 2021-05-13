@@ -1,2 +1,3 @@
 # ptl-meeting
-การใช้งานห้องประชุม
+ระบบจองห้องประชุมใช้งานสำหรับ เทศบาลเมืองพัทลุง 
+http://ptl-munic-meeting-booking.online/
